@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Interestcalculator:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Interestcalculator_jar</output-path>
+    <root id="archive" name="Interestcalculator.jar">
+      <element id="module-output" name="Interestcalculator" />
+    </root>
+  </artifact>
+</component>
